@@ -1,0 +1,6 @@
+# Your saved sign-in. It works like a password: never commit it.
+.tokens.json
+# The local usage log written by chatgpt.mjs
+usage.jsonl
+node_modules/
+.DS_Store

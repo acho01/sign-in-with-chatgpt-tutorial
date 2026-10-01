@@ -1,0 +1,13 @@
+{
+  "name": "sign-in-with-chatgpt-tutorial",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Run your app on the user's ChatGPT plan: a small step-by-step tutorial in plain JavaScript",
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "login": "node login.mjs",
+    "usage": "node usage.mjs"
+  }
+}
